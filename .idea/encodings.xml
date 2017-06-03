@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ArticlesController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Repositories/Repository.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/news/admin/articles.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/news/admin/articles_content.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/news/admin/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/news/admin/navigation.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/news/articles_content.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/news/login.blade.php" charset="UTF-8" />
+  </component>
+</project>
